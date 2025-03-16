@@ -1,0 +1,15 @@
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\bin\Debug\net8.0\Methods2.exe
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\bin\Debug\net8.0\Methods2.deps.json
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\bin\Debug\net8.0\Methods2.runtimeconfig.json
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\bin\Debug\net8.0\Methods2.dll
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\bin\Debug\net8.0\Methods2.pdb
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\Methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\Methods2.AssemblyInfoInputs.cache
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\Methods2.AssemblyInfo.cs
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\Methods2.csproj.CoreCompileInputs.cache
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\Methods2.sourcelink.json
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\Methods2.dll
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\refint\Methods2.dll
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\Methods2.pdb
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\Methods2.genruntimeconfig.cache
+C:\Users\Aysun\Desktop\Methods2\Methods2\Methods2\obj\Debug\net8.0\ref\Methods2.dll
