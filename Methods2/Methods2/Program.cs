@@ -1,32 +1,8 @@
-﻿using System;
-class Program
-
-{
-    static void Min()
-    {
-        int[] arr = { 5, 43, 67, 21, 2, 45, 667, 3234 };
-        int min = arr[0];
-        for (int i = 1; i < arr.Length; i++)
-        {
-            if (arr[i] < min)
-                min = arr[i];
-        }
-
-        Console.WriteLine("En kicik eded:" + min);
-    }
-    static void Main()
-    {
-        Min();
-    }
-
-}
-
-
-//using System;
+﻿//using System;
 //class Program
 
 //{
-//    static void Main()
+//    static void Min()
 //    {
 //        int[] arr = { 5, 43, 67, 21, 2, 45, 667, 3234 };
 //        int min = arr[0];
@@ -35,10 +11,34 @@ class Program
 //            if (arr[i] < min)
 //                min = arr[i];
 //        }
+
 //        Console.WriteLine("En kicik eded:" + min);
+//    }
+//    static void Main()
+//    {
+//        Min();
 //    }
 
 //}
+
+
+using System;
+class Program
+
+{
+    static void Main()
+    {
+        int[] arr = { 5, 43, 67, 21, 2, 45, 667, 3234 };
+        int min = arr[0];
+        for (int i = 1; i < arr.Length; i++)
+        {
+            if (arr[i] < min)
+                min = arr[i];
+        }
+        Console.WriteLine("En kicik eded:" + min);
+    }
+
+}
 
 
 //using System;
